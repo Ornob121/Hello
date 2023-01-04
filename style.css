@@ -1,0 +1,8 @@
+h1{
+    color: orangered;
+    /* background-image: url(https://html.sammy-codes.com/images/background.jpg); */
+    background-color: azure cover;
+    background-blend-mode: multiply;
+    background-position: cover;
+    background-repeat: no-repeat;
+}
