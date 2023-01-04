@@ -26,9 +26,18 @@ h2{
     border-radius: 8px;
     margin: 15px;
     padding: 5px;
+<<<<<<< HEAD
     display: inline-block;
 }
 .oo{
 
     color: blueviolet;
+=======
+}
+#h3{
+    color: gold;
+    background-color: pink;
+    border: 2px solid black;
+    border-radius: 5px;
+>>>>>>> f4
 }
