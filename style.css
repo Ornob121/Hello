@@ -2,6 +2,8 @@ h1{
     color: orangered;
     /* background-image: url(https://html.sammy-codes.com/images/background.jpg); */
     background-color: azure center;
+    background-image: url(https://html.sammy-codes.com/images/background.jpg);
+    background-color: azure cover;
     background-blend-mode: multiply;
     background-position: center;
     background-repeat: no-repeat;
@@ -17,4 +19,16 @@ h2{
 
 
 
+}
+.pp{
+    background-color: antiquewhite;
+    border: 3px solid black;
+    border-radius: 8px;
+    margin: 15px;
+    padding: 5px;
+    display: inline-block;
+}
+.oo{
+
+    color: blueviolet;
 }
